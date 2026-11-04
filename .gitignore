@@ -1,0 +1,20 @@
+# Maven
+target/
+dependency-reduced-pom.xml
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+# Systemy
+.DS_Store
+Thumbs.db
+
+# Artefakty lokalne (opcjonalnie - można wersjonować wydania)
+# release/
